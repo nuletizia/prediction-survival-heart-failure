@@ -6,6 +6,8 @@ This repository contains an unofficial and preliminary implementation of the met
 "Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone"
 https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5
 
+The work was done as a simple student project for the course of "Data Mining" at the University of Klagenfurt. 
+
 The repository is divided into two components: 
 1. Prediction survival using different binary classifiers on the entire or reduced dataset
 2. Feature ranking using some of the methods described in the original paper

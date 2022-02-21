@@ -6,11 +6,11 @@ This repository contains an unofficial and simple implementation of the methods 
 "Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone"
 https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5
 
-<img src="https://github.com/nuletizia/..." width=700>
-
 The repository is divided into two components: 
 1. Prediction survival using different binary classifiers on the entire or reduced dataset
 2. Feature ranking using some of the methods described in the original paper
+
+<img src="https://github.com/nuletizia/prediction-survival-heart-failure/blob/main/feature_ranking_mwu.png" width=700>
 
 # Prediction Survival
 

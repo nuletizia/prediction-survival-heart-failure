@@ -1,4 +1,4 @@
-# prediction-survival-heart-failure
+# Survival Prediction of Patients with Heart Failure
 Simple binary classification of electronic health records of patients with cardiovascular heart diseases
 
 
@@ -9,12 +9,12 @@ https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-
 The work was done as a simple student project for the course of "Data Mining" at the University of Klagenfurt. 
 
 The repository is divided into two components: 
-1. Prediction survival using different binary classifiers on the entire or reduced dataset
+1. Survival prediction using different binary classifiers on the entire or reduced dataset
 2. Feature ranking using some of the methods described in the original paper
 
 <img src="https://github.com/nuletizia/prediction-survival-heart-failure/blob/main/feature_ranking_mwu.png" width=700>
 
-# Prediction Survival
+# Survival Prediction
 
 Run the following command to get accuracy, MCC and F1 score exploiting the full dataset and the random forest classifier using 10 Monte Carlo simulations:
 > python Prediction_HF_Data.py

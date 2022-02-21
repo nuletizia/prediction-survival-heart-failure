@@ -2,7 +2,7 @@
 Simple binary classification of electronic health records of patients with cardiovascular heart diseases
 
 
-This repository contains an unofficial and simple implementation of the methods described in: 
+This repository contains an unofficial and preliminary implementation of the methods described in: 
 "Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone"
 https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5
 
